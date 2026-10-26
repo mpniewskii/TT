@@ -1,1 +1,6 @@
 Key_DevOps_lab*
+.idea/
+*.iml
+out/
+*.class
+JavaApi/lib/

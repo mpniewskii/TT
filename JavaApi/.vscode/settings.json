@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "JavaApi/src"
+    ],
+    "java.project.outputPath": "JavaApi/out",
+    "java.project.referencedLibraries": [
+        "JavaApi/lib/**/*.jar"
+    ]
+}
